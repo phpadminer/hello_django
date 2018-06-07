@@ -70,3 +70,5 @@ python manage.py migrate
 ```
 运行完之后再重新执行上面的创建命令！
 
+
+
